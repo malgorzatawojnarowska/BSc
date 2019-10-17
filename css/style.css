@@ -1,0 +1,302 @@
+body{
+  font-family: 'Lato',sans-serif;
+  font-size: 20px;
+  background-color: #303030;
+  color: #ffffff;
+}
+
+#container{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rectangle{
+  width: 1160px;
+  text-align: center;
+}
+
+.square{
+  float:left;
+  width:50%;
+  height: 600px;
+  text-align: center;
+}
+
+.square2{
+  float: left;
+  width: 50%;
+  height: 360px;
+  padding-top: 10px;
+  background-color: #c9c9c9;
+  color: #303030;
+}
+
+#login{
+  float: left;
+  font-size: 40px;
+  width: 1010px;
+  text-align: right;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+#zegar{
+  float: left;
+  text-align: left;
+  font-size: 70px;
+  margin-top: 10px;
+  margin: 20px;
+  margin-bottom: 10px;
+}
+
+/* dzien, miesiac */
+.tile1{
+  float: left;
+  margin: 10px;
+  width: 280px;
+  height: 175px;
+  /*zlota liczba 1,6*/
+  background-color: #7eccba;
+}
+
+.tile1:hover{
+  background-color: #6dbba9;
+}
+
+/* rok */
+.tile2{
+  margin: 10px;
+  width: 580px;
+  height: 175px;
+  background-color: #666666;
+}
+
+.tile2:hover{
+  background-color: #555555;
+}
+
+/* notatki */
+.tile3{
+  margin: 10px;
+  margin-top: 20px;
+  width: 580px;
+  height: 175px;
+  background-color: #89cc7e;
+}
+
+.tile3:hover{
+  background-color: #78bb6d;
+}
+
+/* login/logout */
+.tile4{
+
+  margin: 10px;
+  width: 580px;
+  height: 175px;
+  background-color: #e38435;
+}
+
+.tile4:hover{
+  background-color: #d27324;
+}
+
+/* dodaj spotkanie/notatke pion */
+.tile5{
+  float: left;
+  padding-top: 60px;
+  margin: 10px;
+  width: 280px;
+  height: 310px;
+  background-color: #ab5959;
+}
+
+.tile5:hover{
+  background-color: #9a4848;
+}
+
+/* dzien/notatka */
+.tile6{
+  margin: 10px;
+  padding: 10px;
+  width: 560px;
+  height: 350px;
+  background-color: #c9c9c9;
+  color: #303030;
+}
+
+/* dodaj spotkanie/notatke poziom */
+.tile7{
+  margin: 10px;
+  margin-top: 20px;
+  width: 580px;
+  height: 175px;
+  background-color: #ab5959;
+}
+
+.tile7:hover{
+  background-color: #9a4848;
+}
+
+/* duze notatki */
+.tile8{
+  margin: 10px;
+  height: 350px;
+  width: 1180px;
+  padding: 10px;
+  background-color: #c9c9c9;
+  color: #303030;
+}
+
+/* dodaj notatke najwieksze */
+.tile9{
+  margin: 10px;
+  margin-top: 20px;
+  height: 175px;
+  width: 1200px;
+  margin-bottom: 24px;
+  background-color: #ab5959;
+}
+
+.tile9:hover{
+  background-color: #9a4848;
+}
+
+/* zarejestruj sie */
+.tile10{
+  float: left;
+  padding-top: 175px;
+  margin: 10px;
+  width: 580px;
+  height: 390px;
+  background-color: #e38435;
+}
+
+.tile10:hover{
+  background-color: #d27324;
+}
+
+/* zarejestruj się najwieksze poziomo */
+.tile11{
+  margin-top: 20px;
+  height: 175px;
+  width: 1180px;
+  margin-bottom: 24px;
+  background-color: #e38435;
+}
+
+.tile11:hover{
+  background-color: #d27324;
+}
+
+.tile12{
+  margin: 10px;
+  margin-top: 20px;
+  height: 175px;
+  width: 1180px;
+  margin-bottom: 24px;
+  background-color: #e38435;
+}
+
+.tile12:hover{
+  background-color: #d27324;
+}
+
+.pracownik{
+  margin: 10px;
+  width: 580px;
+  height: 175px;
+  background-color: #1e3a8c;
+}
+
+a.tilelink{
+  color: white;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
+
+/*Nieodwiedzony link*/
+a:link{
+  color: black;
+  text-decoration: none;
+}
+
+/*Odwiedzony link*/
+a:visited{
+  color: white;
+  text-decoration: none;
+}
+
+/*Link po najechaniu kursorem*/
+a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.error{
+  color: red;
+}
+
+input{
+
+  padding: 10px 20px;
+  margin: 5px 0;
+  width: 90%;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+/*
+input[type="checkbox"]{
+
+  margin-top: 40px;
+  height: 20px;
+  width: 20px;
+  box-sizing: border-box;
+  font-size: 15px;
+}*/
+
+select{
+  width: 90%;
+  padding: 10px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+table{
+  text-align: center;
+	border: 1px;
+}
+thead{
+	height: 25px
+}
+tbody{
+
+}
+td{
+	width: 30px;
+	height: 30px;
+}
+tr{
+	text-align: center;
+	text-valgin: center;
+}
+
+button[type="submit"] {
+  padding-top: 0px;
+  border: none;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+h4{
+  margin: 10px;
+}

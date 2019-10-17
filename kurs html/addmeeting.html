@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charset="utf-8"/>
+  <title>Planer spotkań biznesowych</title>
+  <meta name="description" content="Planer spotkań biznesowych"/>
+
+  <link rel="stylesheet" href="css/style.css" type="text/css"/>
+  <link rel="stylesheet" href="css/fontello.css" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,900i&amp;subset=latin-ext" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div id="container">
+
+    <div class="rectangle">
+      <div id="zegar">12:00:00</div>
+      <div id="login">Jan Kowalski</div>
+      <div style="clear:both"></div>
+    </div>
+
+    <div class="square">
+
+      <div class="tile6">
+        <label>Tytuł<br/><input type="text" name="tytul"></label>
+        <br/>Klient<br/>
+        <select id="klient" name="klienci[]">
+          <option value="1">firma 1</option>
+        </select>
+        <br/>Data<br/><input type="date" name="data"></label>
+        <br/>Godzina<br/><input type="time" name="czas"></label>
+      </div>
+
+      <a href="addmeeting.html" class="tilelink">
+        <div class="tile7">
+          <i class="icon-meeting"></i>
+          <br/>Stwórz spotkanie
+        </div>
+      </a>
+
+    </div>
+
+    <div class="square">
+      <div class="tile6">
+        Imię<br/><input type="text" name="imie"></label>
+        <br/>Nazwisko<br/><input type="text" name="nazwisko"></label>
+        <br/>Firma<br/><input type="text" name="firma"></label>
+        <br/>Adres e-mail<br/><input type="text" name="email"></label>
+      </div>
+
+      <a href="addmeeting.html" class="tilelink">
+        <div class="tile7">
+          <i class="icon-meeting"></i>
+          <br/>Stwórz klienta
+        </div>
+      </a>
+
+    </div>
+
+    <div style="clear:both"></div>
+
+
+    <div class="rectangle">
+      Małgorzata Wojnarowska &copy; Wszelkie prawa zastrzeżone
+    </div>
+
+  </div>
+
+
+</body>
+</html>

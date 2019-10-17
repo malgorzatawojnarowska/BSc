@@ -1,0 +1,10 @@
+
+.icon-login:before { content: '\e800'; } /* '' */
+.icon-meeting:before { content: '\e801'; } /* '' */
+.icon-note:before { content: '\e802'; } /* '' */
+.icon-notes:before { content: '\e803'; } /* '' */
+.icon-year:before { content: '\e804'; } /* '' */
+.icon-month:before { content: '\e805'; } /* '' */
+.icon-day:before { content: '\e806'; } /* '' */
+.icon-logout:before { content: '\e807'; } /* '' */
+.icon-home:before { content: '\e809'; } /* '' */

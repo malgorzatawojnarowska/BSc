@@ -1,0 +1,16 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Tabela pracownik\IeC {\'o}w\relax }}{10}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Tabela klient\IeC {\'o}w\relax }}{10}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Tabela notatek\relax }}{10}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Tabela spotka\IeC {\'n}\relax }}{10}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Uprawnienia u\IeC {\.z}ytkownik\IeC {\'o}w do poszczeg\IeC {\'o}lnych tabel w bazie danych\relax }}{10}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Wynik zapyta\IeC {\'n} na tabeli 'Klienci'\relax }}{22}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Tabela 'Notatki' dla pracownika o IdPracownika='4'\relax }}{22}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Wynik zapytania 'SELECT' na tablicy 'Pracownicy'\relax }}{22}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Zahaszowane has\IeC {\l }a w tabeli 'Pracownicy'\relax }}{36}
+\addvspace {10\p@ }

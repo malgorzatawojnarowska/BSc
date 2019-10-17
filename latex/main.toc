@@ -1,0 +1,30 @@
+\contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{3}
+\contentsline {chapter}{\numberline {2}Cel i zakres pracy}{4}
+\contentsline {chapter}{\numberline {3}Wymagania projektowe}{5}
+\contentsline {section}{\numberline {3.1}Opis dzia\IeC {\l }ania systemu}{5}
+\contentsline {section}{\numberline {3.2}Wymagania funkcjonalne}{5}
+\contentsline {section}{\numberline {3.3}Wymagania niefunkcjonalne}{6}
+\contentsline {chapter}{\numberline {4}Projekt systemu}{8}
+\contentsline {section}{\numberline {4.1}Projekt relacyjnej bazy danych}{8}
+\contentsline {section}{\numberline {4.2}Interfejs u\IeC {\.z}ytkownika}{11}
+\contentsline {section}{\numberline {4.3}Diagram projektowy}{16}
+\contentsline {chapter}{\numberline {5}Implementacja systemu baz danych}{18}
+\contentsline {section}{\numberline {5.1}Tworzenie tabel}{18}
+\contentsline {section}{\numberline {5.2}Definiowanie indeks\IeC {\'o}w oraz ogranicze\IeC {\'n}}{19}
+\contentsline {section}{\numberline {5.3}Nadawanie uprawnie\IeC {\'n} u\IeC {\.z}ytkownikom}{21}
+\contentsline {section}{\numberline {5.4}Testowanie bazy danych}{21}
+\contentsline {chapter}{\numberline {6}Implementowanie i testowanie aplikacji}{23}
+\contentsline {section}{\numberline {6.1}Instalacja i konfigurowanie systemu}{23}
+\contentsline {section}{\numberline {6.2}Instrukcja u\IeC {\.z}ytkowania aplikacji}{23}
+\contentsline {section}{\numberline {6.3}U\IeC {\.z}ycie funkcji systemu}{25}
+\contentsline {subsection}{\numberline {6.3.1}Zabezpieczenie stron dla niezalogowanych u\IeC {\.z}ytkownik\IeC {\'o}w}{25}
+\contentsline {subsection}{\numberline {6.3.2}Tworzenie spotka\IeC {\'n} i klient\IeC {\'o}w}{25}
+\contentsline {subsection}{\numberline {6.3.3}Edycja/usuwanie notatki}{26}
+\contentsline {subsection}{\numberline {6.3.4}Rejestracja u\IeC {\.z}ytkownika}{27}
+\contentsline {subsection}{\numberline {6.3.5}Przegl\IeC {\k a}danie zaplanowanych spotka\IeC {\'n} oraz notatek}{28}
+\contentsline {section}{\numberline {6.4}Wybrane funkcje - opis programowania}{29}
+\contentsline {subsection}{\numberline {6.4.1}Implementacja dost\IeC {\k e}pu do bazy danych}{29}
+\contentsline {subsection}{\numberline {6.4.2}Implementacja wybranych funkcjonalno\IeC {\'s}ci systemu}{30}
+\contentsline {subsection}{\numberline {6.4.3}Implementacja mechanizm\IeC {\'o}w bezpiecze\IeC {\'n}stwa}{32}
+\contentsline {chapter}{\numberline {7}Podsumowanie}{37}
+\contentsline {chapter}{Bibliografia}{38}
